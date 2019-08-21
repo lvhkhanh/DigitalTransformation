@@ -17,6 +17,5 @@
 * [Digital Transformation Strategy](https://www.edx.org/course/digital-transformation-strategy-2) -edx - unknown
 * [Platform Strategy for Business](https://www.edx.org/course/platform-strategy-for-business-2) - edx - unknown 
 * [Business Analytics for Data-Driven Decision Making](https://www.edx.org/course/business-analytics-data-driven-decision-bux-qd602x-1) -edx - unknown
-* [Digital Transformation Strategy](https://www.edx.org/course/digital-transformation-strategy-2) - edx
 * [Digital Transformation](https://www.edx.org/professional-certificate/kthx-digital-transformation) - edx
 * [Sabermetrics 101: Introduction to Baseball Analytics](https://courses.edx.org/courses/course-v1:BUx+SABR101x+2T2015/course/)
