@@ -10,6 +10,7 @@
   Fashion: Zara
   Sports: Baseball 
   Hospitality: Airbnb
+  HiPPO vs Big Data
 ```
 * [Leading in the Digital Age](https://www.edx.org/course/leading-in-the-digital-age-2) - edx - 2019/10/31
 * [Driving Digital Innovation through Experimentation](https://www.edx.org/course/driving-digital-innovation-through-experimentation) - edx - future
